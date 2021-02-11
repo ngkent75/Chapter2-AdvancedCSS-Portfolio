@@ -18,6 +18,8 @@ This project is my first iteration of my portfolio. It both acts as a long-term 
 
 The most significant, and also most difficult elements I worked with to build my portfolio was flex boxes. Flex boxes are capable of formatting in magical ways, but they can be equally as stubborn. My skills started out weak, but as I worked more on this project, I gradually grew more competent with the use of flex boxes.
 
+Link to Portfolio: https://ngkent75.github.io/Chapter2-AdvancedCSS-Portfolio/
+
 <br>
 <br>
 <br>

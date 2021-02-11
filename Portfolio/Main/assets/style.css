@@ -212,6 +212,8 @@ footer {
     align-content: center;
     width: 100%;
     margin-top: 200px;
+    position: absolute;
+    
     
 }
 
@@ -290,7 +292,15 @@ footer li:hover {
 
 /* media queries */
 @media screen and (max-width: 992px) {
+    .projectBox {
+        height: 600px;        
+    }
+
     .project {
         width: 46%;
+    }
+
+    .Summary h2 {
+        width: 20%;
     }
 }

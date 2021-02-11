@@ -5,7 +5,9 @@
 <br>
 
 [Description](#description)
+
 [Screenshot](#screenshot)
+
 [Criteria](#criteria)
 
 ## Description

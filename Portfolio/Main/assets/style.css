@@ -130,8 +130,7 @@ a {
 /* container for entire project section */
 .projectContainer {
     display: flex;
-    flex-direction: row;
-    margin-right: -15px; 
+    flex-direction: row;     
     margin-top: 200px;
     justify-content: space-around;
     align-content: center;

@@ -29,7 +29,7 @@ Link to Portfolio: https://ngkent75.github.io/Chapter2-AdvancedCSS-Portfolio/
 
 <br>
 
-![Screenshot of Portfolio](images/PortfolioSS.PNG)
+![Screenshot of Portfolio](Images/PortfolioSS.PNG)
 
 <br>
 
